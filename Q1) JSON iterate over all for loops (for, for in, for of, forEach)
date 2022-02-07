@@ -1,0 +1,32 @@
+var json =[  
+    {"name":"Shyam","YOB":"98", "email":"shyamjaiswal@gmail.com"},  
+    {"name":"Bob","YOB":"99", "email":"bob32@gmail.com"},  
+    {"name":"Jai", "YOB":"00","email":"jai87@gmail.com"}  
+];
+
+//for loop
+for (var i=0;i<json.length;i++)
+{
+var result= json[i]
+console.log(result.name, result.email)
+}
+
+//for in loop
+for (var any in json) 
+{
+    console.log(json[any].name,json[any].email)
+ }
+ 
+ //for of loop
+for ( var index of json)
+{
+console.log(index.name,index.email)
+}
+
+//for each loop
+json.forEach(value => console.log(value.name,value.email))
+
+//Output of all the loops is
+Shyam shyamjaiswal@gmail.com
+Bob bob32@gmail.com
+Jai jai87@gmail.com
