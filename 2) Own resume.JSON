@@ -1,0 +1,86 @@
+  "basics": {
+    "name": "Praveen S",
+    "email": "svpraveen4@gmail.com"
+    "contact_no": "7904887708"
+    "country": "India"
+    "Zipcode":"608002"     
+    },
+  "Career Objective": 
+    {
+     "Summary": "To work with involvement in the mission, to accomplish the vision of the organization which is looking forward for technical change with mutual growth, while also concurrently upgrading my skills and knowledge"
+    }
+  "education": 
+    { 
+      "UG": "Name of the Institution = Sree Sastha  College  of  Engineering, University = Anna university chennai, YEAR OF PASSING = 2016, CGPA = 6.47",
+      "HSC": "Name of the Institution = SRV Excel Matriculation Higher Secondary School, Board = Matriculation, YEAR OF PASSING = 2012, PERCENTAGE = 73.58%",
+      "SSLC": "Name of the Institution = Nirmala Matriculation Higher Secondary School, Board = Matriculation, YEAR OF PASSING = 2010, PERCENTAGE = 77.80%",
+      }, 
+  "Experience": [
+    {
+      "summary": "Working as a catalog associate, we perform data analysis and monitoring using cloud technology",
+      "website": "https://www.amazon.com/",
+      "name": "Amazon",
+      "location": "Chennai",
+      "position": "Catalog Associate",
+      "startDate": "2020"
+      
+    },
+    {
+      "summary":  "Worked as a Testing Engineer at various site in Tamilnadu and perform energy audit for solar installation",
+      "name": "Freelancer",
+      "location": "Chennai",
+      "position": "Testing Engineer",
+      "endDate":"2020",
+      "startDate": "2018"
+    },
+    {
+      "summary":  "Worked as Electrical Testing Engineer, performed various testing and maintenance operation in various Sub-Stations around INDIA",
+      "website": "https://www.voltechgroup.com/",
+      "name": "Voltech",
+      "location": "Chennai",
+      "position": "Electrical Testing Engineer",
+      "endDate":"2018",
+      "startDate": "2017"
+    },
+    {
+      "summary":  "Worked as Graduate Engineer Trainee, performed quality check for the transformers upto 110kv CT & PT",
+      "website": "http://emmesscontrol.in/",
+      "name": "EMMESS control",
+      "location": "Chennai",
+      "position": "GET",
+      "endDate":"2016",
+      "startDate": "2016"
+    }],
+   "Personal Skills":    {
+
+     "list": "Team player, Positive Attitude, Easy adaptive"
+
+    },
+   "Strengths":     {
+
+     "list": "Self learner, Time management, Positive approach"
+
+     },
+
+  "Personal Profile": [
+    {
+      "Father's_Name": "D Selvaraju"
+    },
+    {
+      "Date_of_Birth": "04-May-1995"
+    },
+    {
+      "Gender": "Male"
+    },
+    {
+      "Languages_Known": "English, Tamil, Hindi"
+    }
+  ]
+    "Declaration": {
+      
+      "Summary": "I assure you that, all the information furnished above in this resume are complete and true to the best of my knowledge"
+
+      }
+
+
+    
